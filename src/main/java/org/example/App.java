@@ -13,7 +13,7 @@ public class App
     }
 
 
-    public static int min (Integer[] numbers){
+    public static Integer min (Integer[] numbers){
         Integer min = Integer.MAX_VALUE;
 
         for (Integer num : numbers){
